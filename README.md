@@ -1,6 +1,10 @@
-# form_example
+# Form Example
 
-A new Flutter project.
+FlutterでFormを使ったフォームを作成したサンプルです。
+
+以下で解説しています。
+
+[【Flutter】Formを一から作りながら解説してみたよ](https://qiita.com/ashdik/items/7fa2f362c2c8adc6c683)
 
 ## Getting Started
 
